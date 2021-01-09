@@ -5,5 +5,3 @@
 
 - In my spare time I also make some fun and utility cogs for Red-DiscordBot and you can find the repo [here](https://github.com/AndyButAnnoying/AndyCogs)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
