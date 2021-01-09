@@ -11,5 +11,15 @@
  - You can join my discord server for help with my bot [here](https://discord.gg/nVcZQt7mqk)
  
  <h3 align="left"> Apps, Languages, Tools I use </h3>
- - Python
+ <p align="center">
+  <a href="https://discord.gg/nVcZQt7mqk">
+    <img src="https://discordapp.com/api/guilds/779170711305715764/widget.png?style=shield" alt="Support Server">
+  </a>
+  <a href="https://www.python.org/downloads/">
+    <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Red-Discordbot">
+  </a>
+  <a href="https://github.com/Rapptz/discord.py/">
+     <img src="https://img.shields.io/badge/discord-py-blue.svg" alt="discord.py">
+  </a>
+</p>
 
