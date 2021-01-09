@@ -5,3 +5,8 @@
 
 - In my spare time I also make some fun and utility cogs for Red-DiscordBot and you can find the repo [here](https://github.com/AndyButAnnoying/AndyCogs)
 
+ - You can join my discord server for help with my bot [here](https://discord.gg/nVcZQt7mqk)
+ 
+ <h3 align="left"> Apps, Languages, Tools I use </h3>
+ - Python
+
