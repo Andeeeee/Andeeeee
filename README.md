@@ -10,8 +10,8 @@
 
  - You can join my discord server for help with my bot [here](https://discord.gg/nVcZQt7mqk)
  
- <h3 align="left"> Apps, Languages, Tools I use </h3>
- <p align="center">
+ <h3 align="left"> Apps, Languages, Tools, and Servers.</h3>
+ <p align="left">
   <a href="https://discord.gg/nVcZQt7mqk">
     <img src="https://discordapp.com/api/guilds/779170711305715764/widget.png?style=shield" alt="Support Server">
   </a>
