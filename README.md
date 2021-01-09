@@ -8,6 +8,8 @@
 
 - In my spare time I also make some fun and utility cogs for Red-DiscordBot and you can find the repo [here](https://github.com/AndyButAnnoying/AndyCogs)
 
+-I also enjoy <strike> coding in javascript or java </strike> hahahahhahaa no fuck you js
+
  - You can join my discord server for help with my bot [here](https://discord.gg/nVcZQt7mqk)
  
  <h3 align="left"> Apps, Languages, Tools, and Servers.</h3>
