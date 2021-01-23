@@ -2,7 +2,7 @@
   <a href="https://github.com/AndyButAnnoying/AndyCogs"><img src="https://cdn.discordapp.com/icons/321845546534830085/a_650fa1ce364722e61d08b2d7280dc18f.jpg" alt="Blob"></a>
 </h1>
 <h1 align="center">Henlo! I'm Andy <strike> ButAnnoying </strike></h1>
-<h3 align="center">A middle school student and a python <strike> nab </strike> dev.</h3>
+<h3 align="center">A python mini-dev</h3>
 
 - I’m developing a discord bot [Hades](https://discord.com/oauth2/authorize?client_id=760182060542984203&scope=bot&permissions=940043318)
 
