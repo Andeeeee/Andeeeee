@@ -4,7 +4,7 @@
 <h1 align="center">Andy</h1>
 <h3 align="center">Python/C++ Learner</h3>
 
-- Developed a discord bot (used to) [Hades](https://discord.com/oauth2/authorize?client_id=760182060542984203&scope=bot&permissions=940043318)
+- Developed a discord bot (discontinued) [Hades](https://discord.com/oauth2/authorize?client_id=760182060542984203&scope=bot&permissions=940043318)
 
 - I also enjoy coding in C++
 
